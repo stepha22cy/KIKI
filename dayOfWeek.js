@@ -1,0 +1,2 @@
+
+dayOfWeek(7);
